@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Sharjeel Ahmed",
+    "image": "/images/sharjeel.jpg",
+    "daily": {
+      "April-1": true
+    }
+  },
+  {
+    "name": "Mubeen Khuwaja",
+    "image": "/images/mubeen.jpg",
+    "daily": {
+      "April-1": true
+    }
+  },
+  {
+    "name": "Ahmed 3",
+    "image": "/images/ahmed.jpg",
+    "daily": {
+      "April-1": false
+    }
+  },
+  {
+    "name": "Muntaha Maqsood",
+    "image": "/images/maqsood.jpg",
+    "daily": {}
+  },
+  {
+    "name": "Ali Ahmed",
+    "image": "/images/ahmed.jpg",
+    "daily": {}
+  },
+  {
+    "name": "Hamza Khuwaja",
+    "image": "/images/hamza.jpg",
+    "daily": {}
+  },
+  {
+    "name": "Mutaqi Khuwaja",
+    "image": "/images/mutaqi.jpg",
+    "daily": {}
+  },
+  {
+    "name": "Ahmed 2",
+    "image": "/images/ahmed.jpg",
+    "daily": {}
+  },
+  {
+    "name": "Mubeen 2",
+    "image": "/images/mubeen.jpg",
+    "daily": {}
+  },
+  {
+    "name": "Mubeen 3",
+    "image": "/images/mubeen.jpg",
+    "daily": {}
+  }
+]
